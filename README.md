@@ -7,3 +7,5 @@ Classification models are used for categorical data to estimate discrete values 
 Various classification models are k-Nearest neighbour (KNN), Logistics Regression, Decision Tree, k-means, Support Vector Machine.
 
 # Description of learning
+Iris dataset is used to predict classes of Iris from a given test set. Comparison of outcome from all models is compared and displayed.
+
