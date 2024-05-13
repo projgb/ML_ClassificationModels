@@ -11,6 +11,7 @@ Iris dataset is used to predict classes of Iris from a given test set. Compariso
 
 # Sample display of various models performance comparison
 
-![Uploading img1.png…]()
+![image](https://github.com/projgb/ML_ClassificationModels/assets/42413583/55f24dff-84d0-4b5f-ba56-90452b0ad261)
+
 
 
