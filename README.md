@@ -9,3 +9,7 @@ Various classification models are k-Nearest neighbour (KNN), Logistics Regressio
 # Description of learning
 Iris dataset is used to predict classes of Iris from a given test set. Comparison of outcome from all models is compared and displayed.
 
+# Sample display of various models performance comparison
+
+
+
