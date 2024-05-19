@@ -14,4 +14,5 @@ Iris dataset is used to predict classes of Iris from a given test set. Compariso
 ![image](https://github.com/projgb/ML_ClassificationModels/assets/42413583/55f24dff-84d0-4b5f-ba56-90452b0ad261)
 
 
-
+# Code sample
+Attached Jupyter notebook 'compareClassificationModels.ipynb' provides the source code used generated from this learning exercise.
