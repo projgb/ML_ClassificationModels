@@ -7,7 +7,7 @@ Classification models are used for categorical data to estimate discrete values 
 Various classification models are k-Nearest neighbour (KNN), Logistics Regression, Decision Tree, k-means, Support Vector Machine.
 
 # Description of learning
-Iris dataset is used to predict classes of Iris from a given test set. Comparison of outcome from all models is compared and displayed.
+Iris dataset is used to predict class of Iris flower from a given test set. Outcome from all models is compared and displayed in chart format.
 
 # Sample display of various models performance comparison
 
@@ -15,4 +15,4 @@ Iris dataset is used to predict classes of Iris from a given test set. Compariso
 
 
 # Code sample
-Attached Jupyter notebook 'compareClassificationModels.ipynb' provides the source code used generated from this learning exercise.
+Jupyter notebook 'compareClassificationModels.ipynb' contains the source code used for this learning exercise.
